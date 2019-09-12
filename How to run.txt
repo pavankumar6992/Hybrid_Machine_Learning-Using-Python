@@ -1,0 +1,29 @@
+Change the building name in preprocessing file from the below list and use the appropriate pre-processing file as per the weather details:
+
+Office			Weather
+PrimClass_Jayla		W2
+PrimClass_Jaylin	W3
+PrimClass_Janiya	W3
+PrimClass_Janice	W3
+Office_Jett		W2
+Office_Jerry		W3
+Office_Jackie		W2
+PrimClass_Javier	W1
+PrimClass_Jeanette	W1
+PrimClass_Janis		W1
+
+
+
+For pre-processing use corresponding weather pre-processing file.
+
+For weather 1 - PreprocessingW1.py
+For weather 2 - PreprocessingW2.py
+For weather 3 - PreprocessingW3.py
+
+
+
+Model deployment is same for all buildings and weather data.
+Use Model_Development.py for model deployment.
+*******************************************************************************
+
+Run Preprocessing file first then run the model_deployment file.
